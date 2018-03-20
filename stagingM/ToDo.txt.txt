@@ -1,0 +1,4 @@
+ToDo list:
+1. Create repo in GitHub
+2. Clone to local
+3. First commit
